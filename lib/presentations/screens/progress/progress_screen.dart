@@ -40,6 +40,7 @@ class _ProgressView extends StatelessWidget {
 }
 
 class _ControlledProgressIndicator extends StatelessWidget {
+  
   const _ControlledProgressIndicator({super.key});
 
   @override

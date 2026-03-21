@@ -41,6 +41,13 @@ class MenuItem {
       icon: Icons.refresh_rounded
     ),
 
+    MenuItem(
+      title: 'Snackbars and Dialogs', 
+      subTitle: 'Snackbars, dialogs, and other utility widgets', 
+      link: '/snackbar', 
+      icon: Icons.info_outline
+    ),
+
   ];
 
 

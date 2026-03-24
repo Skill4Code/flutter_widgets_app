@@ -62,6 +62,12 @@ class MenuItem {
       icon: Icons.car_rental_outlined
     ),
 
+    MenuItem(
+      title: 'Introduction tutorial', 
+      subTitle: 'A short introductory tutorial', 
+      link: '/tutorial', 
+      icon: Icons.accessible_rounded
+    ),
   ];
 
 

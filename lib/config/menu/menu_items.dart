@@ -55,6 +55,13 @@ class MenuItem {
       icon: Icons.check_box_outline_blank_rounded
     ),
 
+    MenuItem(
+      title: 'UI Controls + Tiles', 
+      subTitle: 'a series of flutter controls', 
+      link: '/ui-controls', 
+      icon: Icons.car_rental_outlined
+    ),
+
   ];
 
 

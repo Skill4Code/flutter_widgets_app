@@ -68,6 +68,13 @@ class MenuItem {
       link: '/tutorial', 
       icon: Icons.accessible_rounded
     ),
+
+    MenuItem(
+      title: 'InfiniteScroll and Pull to refresh', 
+      subTitle: 'A screen with infinite scroll and pull to refresh', 
+      link: '/infinite', 
+      icon: Icons.list_alt_rounded
+    ),
   ];
 
 

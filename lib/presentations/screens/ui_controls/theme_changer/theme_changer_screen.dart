@@ -10,7 +10,7 @@ class ThemeChangerScreen extends ConsumerWidget {
   @override
   Widget build(BuildContext context, ref) {
     final isDarkMode = ref.watch(themeNotifierProvider).isDarkMode;  //ref.watch(isDarkmodeProvider);
-    final selectedColor = ref.watch(themeNotifierProvider).selectedColor; //ref.watch(selectedColorProvider);
+    //final selectedColor = ref.watch(themeNotifierProvider).selectedColor; //ref.watch(selectedColorProvider);
 
     return Scaffold(
       appBar: AppBar(
